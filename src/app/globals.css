@@ -22,5 +22,5 @@ body {
 
 
 .principal{
-  @apply flex flex-col
+  @apply flex flex-col 
 }
